@@ -1,0 +1,14 @@
+.code-editor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(223, 198, 165);
+    width: 40vw;
+    max-width: 40vw;
+    height: 80vh;
+}
+
+.editor-text-input {
+    max-height: 95%;
+    max-width: 95%;
+}
